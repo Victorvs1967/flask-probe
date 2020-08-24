@@ -1,0 +1,22 @@
+body {
+    padding-left: auto;
+    padding-right: auto;
+    color: red;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.form-label {
+    font-weight: 300;
+    display: flex;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
